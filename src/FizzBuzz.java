@@ -39,4 +39,3 @@ class FizzBuzz {
         return i;
     }
 }
-
